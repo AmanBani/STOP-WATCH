@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(72, 86, 220);
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    height: 100vh;
+}
+
+#container{
+    color: beige;
+
+}
+
+.digit{
+    font-size:150px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.text{
+    font-size: 40px;
+    font-weight: bold;  
+}
+
+#button-container{
+  text-align: center;
+  margin-top: 40px;
+}
+.button{
+    padding:10px 25px;
+    font-size: 20px;
+    margin:0px 10px;
+    color: rgb(14, 204, 103);
+    border:pointer;
+}
+
